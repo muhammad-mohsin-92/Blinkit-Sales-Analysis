@@ -3,7 +3,7 @@
 This project presents an in-depth sales analysis of India's last minute grocery store named Blinkit’s product data using Power BI. The goal is to analyze various aspects of sales performance based on product characteristics, store outlets, and other key metrics.
 
 ## Dataset
-The dataset used for this analysis can be downloaded [here](xyz-link).
+The dataset used for this analysis name ***BlinkIT Grocery Data.xlsx*** can be downloaded from the same working directory of this readme file.
 
 ## Project Overview
 - **Dashboard Screenshot**: Below is a screenshot of the final dashboard created in Power BI.
